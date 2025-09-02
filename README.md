@@ -37,6 +37,7 @@ project-root/
 git clone https://github.com/surajbhala/pdf-redactor.git
 cd pdf-redactor
 
+
 2. Create a virtual environment
 python -m venv .venv
 source .venv/bin/activate     # Linux/Mac
